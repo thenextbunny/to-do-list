@@ -1,0 +1,46 @@
+.tasks {
+	align-items: center;
+	border: 2px solid #282c34;
+	border-radius: 4px;
+	display: flex;
+	flex-direction: column;
+	margin: 20px auto 0;
+	max-width: 400px;
+	padding: 20px 0;
+}
+
+.task {
+	border-bottom: 1px solid #ccc;
+	display: flex;
+	justify-content: space-between;
+	margin: 0 auto;
+	padding: 1em;
+	width: 100%;
+}
+
+.details {
+	text-align: left;
+}
+
+.details h4 {
+	font-size: 1.2em;
+	margin-bottom: 1em;
+}
+
+.actions {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.actions img {
+	border: 1px solid #000;
+	border-radius: 3px;
+	cursor: pointer;
+	height: 30px;
+	margin-bottom: 3px;
+	padding: 4px;
+	transition: 0.2s;
+	width: 30px;
+}

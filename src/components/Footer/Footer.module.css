@@ -1,15 +1,17 @@
 .footer {
+	background: #014040;
 	text-align: center;
+	padding: 20px 0;
 }
 
 .text p {
-	color: #0a3871;
+	color: #ffffff;
 	font-weight: 600;
 	margin: 8px 0;
 }
 
 .text strong {
-	color: #052051;
+	color: #cacaca;
 }
 
 .icons img {

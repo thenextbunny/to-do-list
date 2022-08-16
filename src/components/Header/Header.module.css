@@ -1,9 +1,17 @@
 .header {
-	min-height: 10vh;
-	padding: 10px 5%;
-	text-align: center;
+	background: #014040;
+	color: #ffffff;
+	display: flex;
+	height: 12vh;
+	min-height: 12vh;
+	padding: 0px 8%;
 }
 
-h1 {
-	color: darkslategray;
+.header img {
+	height: auto;
+	width: auto;
+}
+
+.header h1 {
+	line-height: 12vh;
 }
