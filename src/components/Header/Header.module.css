@@ -1,0 +1,9 @@
+.header {
+	min-height: 10vh;
+	padding: 10px 5%;
+	text-align: center;
+}
+
+h1 {
+	color: darkslategray;
+}

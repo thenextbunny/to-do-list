@@ -1,0 +1,29 @@
+.footer {
+	text-align: center;
+}
+
+.text p {
+	color: #0a3871;
+	font-weight: 600;
+	margin: 8px 0;
+}
+
+.text strong {
+	color: #052051;
+}
+
+.icons img {
+	border-radius: 3px;
+	height: 25px;
+	padding: 0 4px;
+}
+
+.icons img {
+	-webkit-filter: invert(12%) sepia(97%) saturate(1845%) hue-rotate(199deg) brightness(99%) contrast(92%);
+	filter: invert(12%) sepia(97%) saturate(1845%) hue-rotate(199deg) brightness(99%) contrast(92%);
+}
+
+.icons img:hover {
+	-webkit-filter: invert(54%) sepia(60%) saturate(7082%) hue-rotate(239deg) brightness(95%) contrast(88%);
+	filter: invert(54%) sepia(60%) saturate(7082%) hue-rotate(239deg) brightness(95%) contrast(88%);
+}
