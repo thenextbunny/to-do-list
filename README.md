@@ -5,7 +5,7 @@
 </div>
 <div>
   <h3>ℹ️ Sobre o projeto</h3>
-  <p></p>
+  <p>Treinando TypeScript e React com uma simples To Do List.</p>
 
   ### [👀 Clique aqui para visualizar a página final do projeto](https://thenextbunny.github.io/to-do-list/)
   
